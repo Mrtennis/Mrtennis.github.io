@@ -5,7 +5,7 @@ body>div.container {
   width: 80%;
   margin: auto;
 }
-img { width: auto;
-  height:200px; 
-}
+img { height:200px; 
+    width: auto;
+ }
   
